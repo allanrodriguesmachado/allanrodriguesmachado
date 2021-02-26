@@ -10,8 +10,8 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/allan_rodrigues_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="allan_rodrigues_14" height="20" width="50" /></a>
+<a href="https://www.linkedin.com/in/allanrodriguesmachado/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AllanRodrigues" height="20" width="20" /></a>
+<a href="https://instagram.com/allan_rodrigues_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AllanRodrigues" height="20" width="50" /></a>
 </p>
 
 
