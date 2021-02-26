@@ -2,7 +2,7 @@
 
 ⚡ Developer **Web** 
 
-🧠 **Graduação** - Ciência da Computação (Cursando)  
+🧠 **Graduação** - Ciência da Computação
 
  🗡 **Habilidades:** PHP - C C++ - Java Script - Laravel - MySql - Html - Css3  
  
