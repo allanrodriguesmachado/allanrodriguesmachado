@@ -1,4 +1,19 @@
-### Hi there 👋
+# Allan Rodrigues Machado 🤟
+
+⚡ Developer **Web** 
+
+🧠 **Graduação** - Ciência da Computação (Cursando)  
+
+ 🗡 **Habilidades:** PHP - C C++ - Java Script - Laravel - MySql - Html - Css3  
+ 
+🏹 **Ferramentas:** Visual Studio Code, PhpStorm, WebStorm, NetBeans, Git e GitHub
+
+
+<p align="center">
+<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/allan_rodrigues_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="allan_rodrigues_14" height="20" width="50" /></a>
+</p>
+
 
 <!--
 **allanrodriguesmachado/allanrodriguesmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
