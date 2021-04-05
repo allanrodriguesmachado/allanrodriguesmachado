@@ -6,7 +6,7 @@
 
  🗡 **Habilidades:** PHP -  Laravel - Java Script - C++ - MySql - Html5 - Css3  
  
-🏹 **Ferramentas:** Visual Studio Code, PhpStorm, WebStorm, NetBeans, Git e GitHub
+🏹 **Ferramentas:** Visual Studio Code, PhpStorm, Git e GitHub
 
 
 <p align="center">
