@@ -6,7 +6,7 @@
 
  🗡 **Habilidades:** PHP -  Laravel - Java Script - C++ - MySql - Html5 - Css3  
  
-🏹 **Ferramentas:** Composer - Git - GitHub
+🏹 **Ferramentas:** Composer - Git - GitHub - Sass
 
 
 <p align="center">
