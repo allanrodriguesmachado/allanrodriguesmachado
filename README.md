@@ -4,7 +4,7 @@
 
 🧠 **Graduação** - Ciência da Computação
 
- 🗡 **Habilidades:** PHP -  Laravel - Java Script - C++ - MySql - Html5 - Css3  
+ 🗡 **Habilidades:** PHP - Laravel - MySql
  
 🏹 **Ferramentas:** Composer - Git - GitHub
 
