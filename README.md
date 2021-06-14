@@ -6,7 +6,7 @@
 
  🗡 **Habilidades:** PHP - Laravel - Codeigniter - Vue.JS -  Bootstrap - Maria DB - Wordpress 
  
-🏹 **Ferramentas:** Composer - Git - GitHub - Sass - Docker - 
+🏹 **Ferramentas:** Composer - Git - GitHub - Docker
 
 
 
