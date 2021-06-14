@@ -4,9 +4,10 @@
 
 🧠 **Graduação** - Ciência da Computação
 
- 🗡 **Habilidades:** PHP - Laravel - MySql
+ 🗡 **Habilidades:** PHP - Laravel - Codeigniter - Vue.JS -  Bootstrap - Maria DB - Wordpress - HTML5 - CSS3 - JavaScript - 
  
-🏹 **Ferramentas:** Composer - Git - GitHub
+🏹 **Ferramentas:** Composer - Git - GitHub - Sass - Docker - 
+
 
 
 <p align="center">
