@@ -27,6 +27,6 @@
 ### Databases 🖌️
 
 <p>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25"/>
 </p>
