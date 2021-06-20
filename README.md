@@ -36,10 +36,11 @@
     <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="30"/>
 </p>
 
+### Tools 🧰
 <p>
-    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/phpstorm-7d4a82?style=for-the-badge&logo=phpstorm&logoColor=white" height="25"/>
+    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/phpstorm-7d4a82?style=for-the-badge&logo=phpstorm&logoColor=white" height="30"/>
 </p>
 
 
