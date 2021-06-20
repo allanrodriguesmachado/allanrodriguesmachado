@@ -63,7 +63,7 @@
 
 <p>
 <a href="mailto:allan.rodrigues14@hotmail.com" alt="E-mail" target="_blank">
-    <img src="hhttps://img.shields.io/badge/-hotmail-0564f2?style=for-the-badge&logo=hotmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-hotmail-0564f2?style=for-the-badge&logo=hotmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kevinssiqueira/" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
