@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/Card.png" 
-  alt="Allan Rodrigues - Back-end Developer" />
-</p>
+# Allan Rodrigues - Back-end Developer 🧠
 
 ### My skills 🚀
 
