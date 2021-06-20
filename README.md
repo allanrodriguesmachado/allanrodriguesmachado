@@ -44,3 +44,16 @@
 </p>
 
 
+### Others Basics 💻
+
+<p>
+   <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
+    <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="25"/>
+</p>
+
