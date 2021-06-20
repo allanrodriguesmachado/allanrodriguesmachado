@@ -1,32 +1,26 @@
 # Allan Rodrigues Machado 🤟
 
-⚡ Developer **Web** 
+### My skills 🚀
 
-🧠 **Graduação** - Ciência da Computação
-
- 🗡 **Habilidades:** PHP - Laravel - Codeigniter - Vue.JS -  Bootstrap - Maria DB - Wordpress 
- 
-🏹 **Ferramentas:** Composer - Git - GitHub - Docker
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/allanrodriguesmachado/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AllanRodrigues" height="20" width="20" /></a>
-<a href="https://instagram.com/allan_rodrigues_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AllanRodrigues" height="20" width="50" /></a>
+<p>
+   <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 </p>
 
 
-<!--
-**allanrodriguesmachado/allanrodriguesmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25"/>
+</p>
+
+<p>
+   <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+</p>
