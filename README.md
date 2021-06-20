@@ -4,7 +4,8 @@
 
 <p>
    <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/CodeIgniter-f20a0a?style=for-the-badge&logo=CodeIgniter&logoColor=white" height="25"/>
 </p>
 
 
