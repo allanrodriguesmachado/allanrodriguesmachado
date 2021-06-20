@@ -33,5 +33,5 @@
 
 ### Package Manager 📦
 <p>
-    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="30"/>
 </p>
