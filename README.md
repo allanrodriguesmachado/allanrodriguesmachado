@@ -5,32 +5,22 @@
 <p>
    <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/CodeIgniter-f20a0a?style=for-the-badge&logo=CodeIgniter&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
+
 <img src="https://img.shields.io/badge/HTML5-f56a07?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/react.js-03bafc?style=for-the-badge&logo=react&logoColor=white%22%20height=%2230" height="30"/>   
 </p>
 
-<p>
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>  
-   <img src="https://img.shields.io/badge/Vue.JS-42b883?style=for-the-badge&logo=Vue.JS&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
-
-</p>
-
-<p>
-   <img src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=Wordpress&logoColor=white" height="30"/>
-
-</p>
 
 ### Databases 🖌️
 
 <p>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
 </p>
 
 ### Package Manager 📦
@@ -57,9 +47,14 @@
 ### Basics ⚡ 
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/HTML5-f56a07?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/CodeIgniter-f20a0a?style=for-the-badge&logo=CodeIgniter&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
+</p>
+
+<p>
+ <img src="https://img.shields.io/badge/Vue.JS-42b883?style=for-the-badge&logo=Vue.JS&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=Wordpress&logoColor=white" height="30"/>  
 </p>
 
 
