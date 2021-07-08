@@ -1,4 +1,4 @@
-# Allan Rodrigues - Dev 🧠
+# Allan Rodrigues
 
 ### My skills 🚀
 
