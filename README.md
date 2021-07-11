@@ -62,12 +62,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/allan_rodrigues_14" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+<a href="https://dev.to/allanrodriguesmachado" alt="Dev.To" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=logoColor=white" />
 </a>
-
-<!-- <a href="vercel.app" alt="Instagram" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/-portf%C3%B3lio-black?style=for-the-badge&logo=vercel&logoColor=white" /> -->
-</a>
-</p>
 
