@@ -5,7 +5,7 @@
 <p>
    <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
-<!--    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/> -->
+   <img src="https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white%22%20height=%2230%22/>
 </p>
 
 <!-- <p>
