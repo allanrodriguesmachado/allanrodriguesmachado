@@ -5,15 +5,14 @@
 <p>
    <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
+<!--    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30"/> -->
 </p>
 
-<p>
-
+<!-- <p>
 <img src="https://img.shields.io/badge/HTML5-f56a07?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/react.js-03bafc?style=for-the-badge&logo=react&logoColor=white%22%20height=%2230" height="30"/>   
-</p>
+</p> -->
 
 
 ### Databases 🖌️
