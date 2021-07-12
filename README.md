@@ -29,7 +29,7 @@
      <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 
 </p>
-
+<!-- 
 
 ### Others  💻
 
@@ -37,7 +37,7 @@
    <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white" height="30"/>
     <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 </p>
-
+ -->
 
 <!-- ### Basics ⚡ 
 
