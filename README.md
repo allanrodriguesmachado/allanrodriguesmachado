@@ -1,4 +1,4 @@
-# Allan Rodrigues
+# Allan Rodrigues Machado
 
 ### My skills 🚀
 
@@ -66,4 +66,4 @@
 <a href="https://dev.to/allanrodriguesmachado" alt="Dev.To" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=logoColor=white" />
 </a>
-
+</p>
