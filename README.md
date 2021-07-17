@@ -8,6 +8,10 @@
    <img src="https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
 </p>
 
+<p>
+   <img src="https://img.shields.io/badge/C++-2259BA?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+</p>
+
 
 
 ### Databases 🖌️
