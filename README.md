@@ -13,11 +13,12 @@
    <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/Zend-5B8347?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
+
 </p>
 
 <p>
    <img src="https://img.shields.io/badge/C++-2259BA?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Zend-5B8347?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
 </p>
 
 
