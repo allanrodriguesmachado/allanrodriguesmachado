@@ -27,7 +27,7 @@
 <p>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/PostgreSQL-d1d3d6?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-c0c0c0?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="30"/>
 </p>
 
 ### Package Manager 📦
