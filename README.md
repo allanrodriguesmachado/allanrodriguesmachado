@@ -16,7 +16,7 @@
 </p>
 
 <p>
-   <img src="https://img.shields.io/badge/C++-2259BA?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/Jquery-073763?style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Zend3/Laminas-5B8347?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
 </p>
 
