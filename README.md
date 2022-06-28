@@ -3,11 +3,6 @@
 Hi, I'm Alan Rodrigues!
 Junior Backend Developer/PHP, I'm studying higher education in Computer Science, I got my first opportunity as a Junior FullStack developer, working with PHP Laminas, PostgreSQL, Composer, Git, Docker, Bootstrap 5 and Jquery. I've been studying the fundamentals of programming with a focus on PHP, and delving into Object Orientation, I have some projects ready and I'm creating a Road-Map in PHP based on my studies.
 
- <div>
-  <a href="https://github.com/allanrodriguesmachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanrodriguesmachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodriguesmachado&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
 
 
 ### My skills 🚀
@@ -83,3 +78,10 @@ Junior Backend Developer/PHP, I'm studying higher education in Computer Science,
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=logoColor=white" />
 </a>
 </p>
+
+ <div>
+  <a href="https://github.com/allanrodriguesmachado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanrodriguesmachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodriguesmachado&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
+
