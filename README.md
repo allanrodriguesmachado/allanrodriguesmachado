@@ -1,5 +1,8 @@
 # Allan Rodrigues Machado
 
+Hi, I'm Alan Rodrigues!
+Junior Backend Developer/PHP, I'm studying higher education in Computer Science, I got my first opportunity as a Junior FullStack developer, working with PHP Laminas, PostgreSQL, Composer, Git, Docker, Bootstrap 5 and Jquery. I've been studying the fundamentals of programming with a focus on PHP, and delving into Object Orientation, I have some projects ready and I'm creating a Road-Map in PHP based on my studies.
+
  <div>
   <a href="https://github.com/allanrodriguesmachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanrodriguesmachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
