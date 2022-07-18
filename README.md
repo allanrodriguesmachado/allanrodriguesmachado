@@ -16,6 +16,7 @@ Junior Backend Developer/PHP, I'm studying higher education in Computer Science,
 <p>
    <img src="https://img.shields.io/badge/Jquery-073763?style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Zend3/Laminas-5B8347?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Java/Laminas-5B8347?style=for-the-badge&logo=java&logoColor=white" height="30"/>
 </p>
 
 
