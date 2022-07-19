@@ -1,7 +1,7 @@
-# Allan Rodrigues Machado
-
-Hi, I'm Alan Rodrigues!
-Junior Backend Developer/PHP, I'm studying higher education in Computer Science, I got my first opportunity as a Junior FullStack developer, working with PHP Laminas, PostgreSQL, Composer, Git, Docker, Bootstrap 5 and Jquery. I've been studying the fundamentals of programming with a focus on PHP, and delving into Object Orientation, I have some projects ready and I'm creating a Road-Map in PHP based on my studies.
+ Hello, I'm Allan! 👋
+  I'm a junior back end developer
+  I'm a currently working as a junior full stack developer. I deal with building web systems, APIs and systems integration, mainly using technologies such as   PHP/Laminas, Composer, Git/Github, PostreSQL, Jquery e Boostrap
+ 
 
 
 
