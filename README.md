@@ -7,7 +7,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 
 <p>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/Zend3/Laminas-5B8347?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/Zend3/Laminas-68b604?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
 </p>
 
