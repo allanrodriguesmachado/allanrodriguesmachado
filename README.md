@@ -1,6 +1,6 @@
 ## Hello, I'm Allan Rodrigues! 👋
 
-https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg
+
 
 I'm a junior back end developer.
 
@@ -22,7 +22,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 #### Databases 🖌️
 
 <p>
-<!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"/> -->
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="30"/> 
 <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
 </p>
