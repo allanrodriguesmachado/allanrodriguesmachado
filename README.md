@@ -9,11 +9,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 
    <summary>Frontend⚡</summary>
 
-<p>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/Zend3/Laminas-68b604?style=for-the-badge&logo=zend&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,jquery)]()
 
    <summary>Backend⚡</summary> 
    
@@ -23,7 +19,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,prisma)]()
 
 #### Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma)]()
 
 #### Find me elsewhere 🌎
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allanrodriguesmachado/)
