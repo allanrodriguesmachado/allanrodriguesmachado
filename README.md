@@ -1,5 +1,7 @@
 ## Hello, I'm Allan Rodrigues! 👋
 
+https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg
+
 I'm a junior back end developer.
 
 I'm a currently working as a junior full stack developer. I deal with building web systems, APIs and systems integration, mainly using technologies such as PHP/Laminas, Composer, Git/Github, PostgreSQL, Jquery and Boostrap.
