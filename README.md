@@ -20,17 +20,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 </p>
 
 #### Databases 🖌️
-
-<p>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="30"/> 
-<img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-</p>
-
-#### Package Manager 📦
-<p>
-    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="30"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,prisma)]()
 
 #### Tools 🧰
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github)]()
