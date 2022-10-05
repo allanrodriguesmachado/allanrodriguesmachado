@@ -7,11 +7,11 @@ I'm a junior back end developer.
 I'm a currently working as a junior full stack developer. I deal with building web systems, APIs and systems integration, mainly using technologies such as PHP/Laminas, Composer, Git/Github, PostgreSQL, Jquery and Boostrap.
 #### My skills 🚀
 
-   <summary>Frontend⚡</summary>
+#### Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,jquery)]()
 
-   <summary>Backend⚡</summary> 
+#### Backend
    
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs)]()
 
