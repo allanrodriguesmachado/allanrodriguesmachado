@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+
 
 I'm a junior back end developer.
 
@@ -33,22 +33,10 @@ I'm a currently working as a junior full stack developer. I deal with building w
 </p>
 
 #### Tools 🧰
-<p>
-     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-     <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-     <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)]()
 
 #### Find me elsewhere 🌎
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allanrodriguesmachado/)
 
-<p>
-<a href="https://www.linkedin.com/in/allanrodriguesmachado/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
 
-<a href="[https://dev.to/allanrodriguesmachado](https://dev.to/allanrodriguesmachado)" alt="Dev.To" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=logoColor=white" />
-</a>
-</p>
 
-<!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
