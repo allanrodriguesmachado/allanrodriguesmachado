@@ -21,7 +21,7 @@ I'm a currently working as a junior full stack developer. I deal with building w
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma)]()
 ---
-#### Find me elsewhere 🌎
+#### Find me elsewhere
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allanrodriguesmachado/)
 
 
