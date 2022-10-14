@@ -15,10 +15,10 @@ I'm a currently working as a junior full stack developer. I deal with building w
    
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs)]()
 ---
-#### Databases 🖌️
+#### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,prisma)]()
 ---
-#### Tools 🧰
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma)]()
 ---
 #### Find me elsewhere 🌎
