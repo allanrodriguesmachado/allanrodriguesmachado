@@ -15,7 +15,7 @@ I currently work as a junior full stack developer. I work with building web syst
 ---
 #### Backend
    
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs)]()
 ---
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,prisma)]()
