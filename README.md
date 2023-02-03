@@ -11,17 +11,17 @@ I currently work as a junior full stack developer. I work with building web syst
 ---
 #### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,jquery)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,jquery)]()
 ---
 #### Backend
    
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)]()
 ---
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,prisma)]()
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)]()
 ---
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)]()
 ---
 #### Find me elsewhere
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allanrodriguesmachado/)
