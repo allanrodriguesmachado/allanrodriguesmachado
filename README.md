@@ -1,7 +1,7 @@
 ## Hey There! 👋
 
 
-I'm a junior front-end developer.
+I'm a junior back-end developer.
 
 I've been studying the front end a lot, using React js and its entire ecosystem.
 
