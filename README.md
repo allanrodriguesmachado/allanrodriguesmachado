@@ -3,8 +3,6 @@
 
 I'm a junior back-end developer.
 
-I've been studying the front end a lot, using React js and its entire ecosystem.
-
 I currently work as a junior full stack developer. I work with building web systems, APIs and systems integration, mainly using technologies such as PHP/Laminas, Composer, Git/Github, PostgreSQL, Jquery and Boostrap.
 
 #### My skills 🚀
