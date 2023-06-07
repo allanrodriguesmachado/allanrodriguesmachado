@@ -9,7 +9,7 @@ I currently work as a junior full stack developer. I work with building web syst
 ---
 #### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,jquery,React)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,next)]()
 ---
 #### Backend
    
