@@ -1,7 +1,7 @@
 ## Hey There! 👋
 
 
-I'm a junior back-end developer.
+I'm a junior developer.
 
 I currently work as a junior full stack developer. I work with building web systems, APIs and systems integration, mainly using technologies such as PHP/Laminas, Composer, Git/Github, PostgreSQL, Jquery and Boostrap.
 
