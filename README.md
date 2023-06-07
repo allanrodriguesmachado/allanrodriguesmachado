@@ -13,7 +13,7 @@ I currently work as a junior full stack developer. I work with building web syst
 ---
 #### Backend
    
-[![My Skills](https://skillicons.dev/icons?i=php,laravel)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,node)]()
 ---
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)]()
