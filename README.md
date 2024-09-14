@@ -9,11 +9,11 @@ I currently work as a junior full stack developer. I work with building web syst
 ---
 #### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,reactjs)]()
 ---
 #### Backend
    
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,cpp,nodejs)]()
 ---
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)]()
